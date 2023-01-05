@@ -7,12 +7,12 @@
   }
   #name{
     padding: 10%;
-    -ms-transform: rotate(-20deg); /* IE 9 */
+    -ms-transform: rotate(-20deg); 
   transform: rotate(-20deg);
   font-weight: 500;
   
   font-family: 'Akaya Telivigala', cursive;
- font-size: 50px;
+ font-size: 70px;
   }
   body {
     width: 100%;
